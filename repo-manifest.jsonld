@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/dbcli/mycli/commit/ad4a28bdaa3f1e5987fcb9a6ca85eebaa623da01",
       "git:hexsha": "ad4a28bdaa3f1e5987fcb9a6ca85eebaa623da01",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T06:46:02.561227+00:00"
     },
     {
       "@id": "https://repolex.ai/r/dbcli/mycli/commit/4875643044b542e153eed74869bdf9b7249ba9a8",
