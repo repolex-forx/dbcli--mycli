@@ -1,0 +1,11 @@
+{
+  "org": "dbcli",
+  "repo": "mycli",
+  "versions": [
+    {
+      "commit": "ad4a28bdaa3f1e5987fcb9a6ca85eebaa623da01",
+      "tag": "",
+      "parsed_at": "2026-10-18T06:46:02.562695+00:00"
+    }
+  ]
+}
